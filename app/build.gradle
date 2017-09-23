@@ -37,5 +37,5 @@ dependencies {
     compile "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha8'
 
-    // compile project(":remote-logcat")
+    compile project(":remote-logcat")
 }

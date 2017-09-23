@@ -1,0 +1,3 @@
+[submodule "remote-logcat"]
+        path = remote-logcat
+        url = https://github.com/mobile-dev-pro/remote-logcat.git
