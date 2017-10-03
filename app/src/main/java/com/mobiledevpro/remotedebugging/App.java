@@ -22,6 +22,6 @@ public class App extends Application {
         super.onCreate();
 
         //init remote logcat
-        RemoteLog.init(this, "abcdefgh123456789");
+        RemoteLog.init(this, "tokentest123");
     }
 }
